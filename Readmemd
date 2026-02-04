@@ -1,0 +1,56 @@
+# Sales Data Analysis Project
+
+## Project Overview
+This project focuses on analyzing sales data to identify trends, measure performance, and generate actionable business insights. The analysis helps understand revenue growth, customer behavior, and product performance.
+
+## Business Problem
+Businesses often struggle to track sales performance across products, regions, and time periods. This project aims to answer:
+- Which products generate the highest revenue?
+- Which regions perform best?
+- How do monthly sales trends change over time?
+
+## Dataset Description
+The dataset contains sales-related information such as:
+- Order Date
+- Product Category
+- Sales Revenue
+- Quantity Sold
+- Region
+- Customer Segment
+
+*(Sample dataset used for learning and analysis purposes)*
+
+## Tools Used
+- Excel / Google Sheets
+- Canva (for dashboard visualization)
+- GitHub (project documentation)
+
+## Analysis Approach
+1. Cleaned and structured the dataset.
+2. Analyzed sales by product category and region.
+3. Identified monthly and yearly sales trends.
+4. Compared performance across customer segments.
+5. Created a visual dashboard to summarize key insights.
+
+## Key Insights
+- Certain product categories contribute significantly to total revenue.
+- Sales performance varies across regions.
+- Monthly trends reveal seasonal sales patterns.
+- High-performing customer segments drive repeat sales.
+
+## Dashboard
+A KPI-based sales dashboard was created to visualize:
+- Total Sales
+- Sales by Product Category
+- Sales by Region
+- Monthly Sales Trend
+
+*(Dashboard image available in the dashboard folder)*
+
+## Conclusion
+This project demonstrates a structured approach to sales data analysis, combining data exploration with visual storytelling to support business decision-making.
+
+## Future Improvements
+- Add SQL-based analysis
+- Build interactive Power BI / Tableau dashboards
+- Automate reports using Python
