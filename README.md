@@ -26,4 +26,4 @@ This project helps business stakeholders understand sales performance and make d
 Initial version created using public datasets. Dashboards and Python notebooks will be enhanced further.
 ## 📊 Dashboard Preview
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](dashboard)
